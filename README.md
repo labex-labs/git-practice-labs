@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                           | Difficulty   | Practice                                                                                                  |
-|---------|--------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                          | Difficulty   | Practice                                                                                                  |
+|---------|-------------------------------|--------------|-----------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Git Branch Basic Operations | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-git-branch-basic-operations-385163'>Start Lab</a> |
 |       2 | 📖 Git Config Management       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-git-config-management-385164'>Start Lab</a>       |
 
