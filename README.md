@@ -1,6 +1,6 @@
 # Git Practice Labs
 
-[![Git Practice Labs](https://cover-creator.appbot.io/git-practice-labs.png)](https://labex.io/courses/git-practice-labs)
+[![Git Practice Labs](https://cover-creator.labex.io/git-practice-labs.png)](https://labex.io/courses/git-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/git-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,14 +25,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                     |
-|---------|---------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                               | Difficulty   | Practice                                                                                                                     |
+|---------|----------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Autocorrect Git Commands                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-autocorrect-git-commands-12700'>Start Lab</a>                        |
 |      02 | 📖 Configure Git User Information                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-configure-git-user-information-12712'>Start Lab</a>                  |
 |      03 | 📖 Disable Fast Forward Merging                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-disable-fast-forward-merging-12728'>Start Lab</a>                    |
 |      04 | 📖 Edit Git Configuration File                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-edit-git-configuration-file-12731'>Start Lab</a>                     |
 |      05 | 📖 Configure Line Endings                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-configure-line-endings-12736'>Start Lab</a>                          |
-|      06 | 📖 Configure the git text editor                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-configure-the-git-text-editor-12759'>Start Lab</a>                   |
+|      06 | 📖 Configure the git text editor                   | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/git-configure-the-git-text-editor-12759'>Start Lab</a>                   |
 |      07 | 📖 Clone Missing Submodules                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-clone-missing-submodules-12706'>Start Lab</a>                        |
 |      08 | 📖 Add a Submodule                                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-add-a-submodule-12697'>Start Lab</a>                                 |
 |      09 | 📖 Change the Last Commit's Author                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/git-change-the-last-commit-s-author-12708'>Start Lab</a>                 |
